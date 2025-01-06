@@ -14,13 +14,13 @@ This project provides a Streamlit-based web application for analyzing and visual
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/hydraulic-network-analysis.git
-    cd hydraulic-network-analysis
+    git clone https://github.com/grajeee/WHAMOS_SIH.git
+    cd WHAMOS_SIH
     ```
 
 2. Install the required dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install streamlit
     ```
 
 ## Usage
